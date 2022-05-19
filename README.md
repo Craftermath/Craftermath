@@ -9,5 +9,4 @@ I'm a software developer in love with Python and Math.
 - 🐧  Open Source enthusiast  
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/carolaraujo/)   
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Craftermath&layout=compact&show_icons=true&theme=gruvbox)](https://github.com/Craftermath/github-readme-stats) ![Craftermath's GitHub stats](https://github-readme-stats.vercel.app/api?username=Craftermath&show_icons=true&theme=gruvbox)
+![Craftermath's GitHub stats](https://github-readme-stats.vercel.app/api?username=Craftermath&show_icons=true&theme=onedark) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Craftermath&layout=compact&theme=onedark)](https://github.com/Craftermath/github-readme-stats)
