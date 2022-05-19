@@ -10,5 +10,4 @@ I'm a software developer in love with Python and Math.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/carolaraujo/)   
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Craftermath&layout=compact&show_icons=true&theme=dark)](https://github.com/Craftermath/github-readme-stats)   
-![Craftermath's GitHub stats](https://github-readme-stats.vercel.app/api?username=Craftermath&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Craftermath&layout=compact&show_icons=true&theme=gruvbox)](https://github.com/Craftermath/github-readme-stats) ![Craftermath's GitHub stats](https://github-readme-stats.vercel.app/api?username=Craftermath&show_icons=true&theme=gruvbox)
