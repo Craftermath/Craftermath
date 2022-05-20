@@ -16,7 +16,7 @@ jobs:
           DUOLINGO_USERNAME: ${{ secrets.DUOLINGO_USERNAME }}
           DUOLINGO_PASSWORD: ${{ secrets.DUOLINGO_PASSWORD }}
           DUOLINGO_STREAK: true # Optional. Defaults is true. If you want to include your last streak on Duolingo.
-          DUOLINGO_LANGUAGE_LENGTH: 6 # Optional. Defaults to 2. Language you want to show (are sort of higher experience to lower).
+          DUOLINGO_LANGUAGE_LENGTH: 10 # Optional. Defaults to 2. Language you want to show (are sort of higher experience to lower).
       - name: commit changes
         continue-on-error: true
         run: |
