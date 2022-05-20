@@ -7,7 +7,8 @@ I'm a software developer in love with Python and Math.
 - 🐧  Open Source enthusiast  
 - 🧮  BSc. Mathematics and Scientific Computing @ [UFSC](http://ufsc.br/)  
 - ✍️  I have been writing in Portuguese [here](https://www.craftermath.com.br)
-- 📫 How to reach me:  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carolaraujo/)](https://www.linkedin.com/in/carolaraujo/)
+- 📫 How to reach me:  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carolaraujo/)](https://www.linkedin.com/in/carolaraujo/)  
+- 🌎 Duolingo addicted 💬
 
 <!---
 ![Craftermath's GitHub stats](https://github-readme-stats.vercel.app/api?username=Craftermath&show_icons=true&theme=onedark) 
