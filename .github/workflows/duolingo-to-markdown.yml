@@ -10,8 +10,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - name: duolingo to markdown
-        uses: diegoaichele/duolingo-to-markdown@v0.2
+      - name: duolingo to markdown with fstrings
+        uses: Craftermath/duolingo-to-markdown@README
         with:
           DUOLINGO_USERNAME: ${{ secrets.DUOLINGO_USERNAME }}
           DUOLINGO_PASSWORD: ${{ secrets.DUOLINGO_PASSWORD }}
