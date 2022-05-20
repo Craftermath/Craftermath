@@ -10,12 +10,11 @@ I'm a software developer in love with Python and Math.
 - 📫 How to reach me:  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carolaraujo/)](https://www.linkedin.com/in/carolaraujo/)  
 - 🌎 Duolingo addicted 💬   
 
-<!-- duolingo -->   
+<!-- duolingo -->
 
 
 
-<!---   
-
+<!---
 
 
 ![Craftermath's GitHub stats](https://github-readme-stats.vercel.app/api?username=Craftermath&show_icons=true&theme=onedark) 
