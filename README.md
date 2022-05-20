@@ -16,6 +16,6 @@ I'm a software developer in love with Python and Math.
 -->
 
 <!-- duolingo -->
-[![duolingo-to-markdown](https://github.com/Craftermath/Craftermath/actions/workflows/duolingo-to-markdown.yml/badge.svg)](https://github.com/Craftermath/Craftermath/actions/workflows/duolingo-to-markdown.yml)
+
 
 
