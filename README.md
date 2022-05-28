@@ -1,4 +1,3 @@
-# Craftermath
 ### Hi, I'm Carol (Any pronoun will do. But I love [Spivak ones](https://en.wikipedia.org/wiki/Spivak_pronoun))
 
 I'm a software developer in love with Python and Math.
