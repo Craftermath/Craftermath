@@ -8,7 +8,7 @@
 - 🐧  Open Source enthusiast  
 - 🧮  BSc. Mathematics and Scientific Computing @ [UFSC](http://ufsc.br/)  
 - ✍️  I have been writing in Portuguese [here](https://www.craftermath.com.br)
-- 📫 How to reach me: <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carolaraujo/" width="80" height="20" href="https://www.linkedin.com/in/carolaraujo/">   
+- 📫 How to reach me: [<img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carolaraujo/" width="80" height="20">](https://www.linkedin.com/in/carolaraujo/)   
 - 🌎 Duolingo addicted 💬   
 
 <!-- duolingo -->
