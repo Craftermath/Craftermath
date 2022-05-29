@@ -2,13 +2,13 @@
 
 ### Hi, I'm Carol (Any pronoun will do. But I love [Spivak ones](https://en.wikipedia.org/wiki/Spivak_pronoun))
 
-I'm a software developer in love with Python and Math.
+<span><img width="25px" height="18.75px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"><span> I'm a software developer in love with Python and Math.
 
 - 💻 Certified Remote Developer @ [Arc Dev](https://arc.dev/@craftermath)
 - 🐧  Open Source enthusiast  
 - 🧮  BSc. Mathematics and Scientific Computing @ [UFSC](http://ufsc.br/)  
 - ✍️  I have been writing in Portuguese [here](https://www.craftermath.com.br)
-- 📫 How to reach me:  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carolaraujo/)](https://www.linkedin.com/in/carolaraujo/)  
+- 📫 How to reach me: <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carolaraujo/" width="80" height="20" href="https://www.linkedin.com/in/carolaraujo/">   
 - 🌎 Duolingo addicted 💬   
 
 <!-- duolingo -->
@@ -21,4 +21,6 @@ I'm a software developer in love with Python and Math.
 ![Craftermath's GitHub stats](https://github-readme-stats.vercel.app/api?username=Craftermath&show_icons=true&theme=onedark) 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Craftermath&layout=compact&theme=onedark)](https://github.com/Craftermath/github-readme-stats)
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carolaraujo/)](https://www.linkedin.com/in/carolaraujo/)
 -->
