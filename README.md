@@ -1,4 +1,5 @@
-![snake gif](https://github.com/Craftermath/Craftermath/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Craftermath/Craftermath/blob/output/github-contribution-grid-snake.svg)   
+
 ### Hi, I'm Carol (Any pronoun will do. But I love [Spivak ones](https://en.wikipedia.org/wiki/Spivak_pronoun))
 
 I'm a software developer in love with Python and Math.
