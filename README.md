@@ -1,4 +1,9 @@
 ![snake gif](https://github.com/Craftermath/Craftermath/blob/output/github-contribution-grid-snake.svg)   
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 
 ### Hi, I'm Carol (Any pronoun will do. But I love [Spivak ones](https://en.wikipedia.org/wiki/Spivak_pronoun))
 
