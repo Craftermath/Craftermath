@@ -25,13 +25,13 @@ jobs:
       - name: python packages installation
         run: |
           python -m pip install --upgrade pip
-          pip install -r duolingo-to-markdown/requeriments.txt
+          pip install -r Craftermath/duolingo-to-markdown/requeriments.txt
           
       - name: use duolingo account
         env:
           DUOLINGO_USERNAME: ${{ secrets.DUOLINGO_USERNAME }}
           DUOLINGO_LANGUAGE_LENGTH: 8
-        run: python duolingo-to-markdown/duolingo-to-markdown.py
+        run: python Craftermath/duolingo-to-markdown/duolingo-to-markdown.py
 
       - name: commit changes
         continue-on-error: true
