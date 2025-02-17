@@ -1,3 +1,6 @@
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/Craftermath/Craftermath/output/snake.svg" alt="Snake animation" />
 
 ### Hi, I'm Carol (Any pronoun will do. But I love [Spivak ones](https://en.wikipedia.org/wiki/Spivak_pronoun))
 
